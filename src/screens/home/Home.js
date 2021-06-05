@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './Home.css';
 import Header from '../../common/header/Header';
+import '@fontsource/roboto';
 
 class Home extends Component {
     render() {
